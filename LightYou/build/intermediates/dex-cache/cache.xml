@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ssuer\android_project\TMAPOpenAPISample1\app\libs\com.skp.Tmap_1.0.47.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="798f381233d74233030a0719ea1e717012f04062">
+        <dex dex="C:\Users\ssuer\android_project\TMAPOpenAPISample1\app\build\intermediates\pre-dexed\debug\com.skp.Tmap_1.0.47_c1e2dfacc64664e2143ee1dc830ce1b73476408e.jar" />
+    </item>
+
+</items>

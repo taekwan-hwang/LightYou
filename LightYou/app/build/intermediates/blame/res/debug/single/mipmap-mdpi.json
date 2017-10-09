@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\ssuer\\android_project\\TMAPOpenAPISample1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\ssuer\\android_project\\TMAPOpenAPISample1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\TMAPOpenAPISample1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\TMAPOpenAPISample1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kjl88\\AndroidStudioProjects\\TMAPOpenAPISample1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\kjl88\\AndroidStudioProjects\\TMAPOpenAPISample1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\TMAPOpenAPISample1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\TMAPOpenAPISample1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ssuer\\android_project\\TMAPOpenAPISample1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\ssuer\\android_project\\TMAPOpenAPISample1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kjl88\\AndroidStudioProjects\\TMAPOpenAPISample1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\kjl88\\AndroidStudioProjects\\TMAPOpenAPISample1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]

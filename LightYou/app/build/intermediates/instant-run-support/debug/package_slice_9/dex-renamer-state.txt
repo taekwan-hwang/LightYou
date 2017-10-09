@@ -1,0 +1,4 @@
+#Sat Sep 09 11:52:22 KST 2017
+base.0=C\:\\TMAPOpenAPISample1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=C\:\\TMAPOpenAPISample1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

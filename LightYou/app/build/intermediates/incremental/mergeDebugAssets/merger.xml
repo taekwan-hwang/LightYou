@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\ssuer\.android\build-cache\3709e4a9eb89dffcf6ea6288aea28805e00e0dfe\output\assets"/></dataSet><dataSet config="main"><source path="C:\Users\ssuer\android_project\TMAPOpenAPISample1\app\src\main\assets"/><source path="C:\Users\ssuer\android_project\TMAPOpenAPISample1\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\ssuer\android_project\TMAPOpenAPISample1\app\src\debug\assets"/></dataSet></merger>
